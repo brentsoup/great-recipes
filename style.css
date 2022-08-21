@@ -1,0 +1,68 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(208, 166, 114);
+    color: white;
+    font-size: 24px;
+}
+
+#title {
+    font-weight: 800;
+    font-size: 64px;
+}
+
+#subtitle {
+    font-size: 32px
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    background-color: rgb(252, 248, 222);
+    color:rgb(96, 23, 23)
+}
+
+img {
+    border-radius: 10%;
+}
+
+.cursive {
+    font-family: "Brush Script MT";
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.cream {
+    color: rgb(252, 248, 222);
+}
+
+.centertext {
+    text-align: center;
+  }
+
+.cursivebig {
+    font-size: 72px;
+}
+
+/** END OF INDEX STUFF **/
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(252, 248, 222);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(252, 248, 222);
+    text-align: center;
+}
+
+.smaller {
+    font-size: 20px;
+}
